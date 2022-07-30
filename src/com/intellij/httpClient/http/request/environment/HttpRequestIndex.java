@@ -1,8 +1,3 @@
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by FernFlower decompiler)
-//
-
 package com.intellij.httpClient.http.request.environment;
 
 import com.intellij.ide.scratch.ScratchUtil;
